@@ -1,6 +1,6 @@
-# iykyk — Face Collage
+# iykyk - Face Collage
 
-**[Demo video](https://drive.google.com/file/d/1NOdqliCy6vA7gSu6Kdx_v3JHKBT7uwDf/view?usp=sharing)** — full app run on Sample 1: pick video → processing → collage → save/share.
+**[Demo video](https://drive.google.com/file/d/1NOdqliCy6vA7gSu6Kdx_v3JHKBT7uwDf/view?usp=sharing)** - full app run on Sample 1: pick video → processing → collage → save/share.
 
 Given a short portrait video, iykyk finds every distinct person who appears in it, counts how
 many times each one shows up, and lays out a shareable collage with one tile per person — all
