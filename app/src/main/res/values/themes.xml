@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.FaceCollage" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
