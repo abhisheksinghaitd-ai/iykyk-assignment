@@ -199,7 +199,7 @@ confirmed present in the raw (pre-discard) track overlap log before clustering e
 
 ## Demo video
 
-[https://drive.google.com/file/d/1NOdqliCy6vA7gSu6Kdx_v3JHKBT7uwDf/view?usp=sharing](https://drive.google.com/file/d/1NOdqliCy6vA7gSu6Kdx_v3JHKBT7uwDf/view?usp=sharing)
+[https://drive.google.com/file/d/1NOdqliCy6vA7gSu6Kdx_v3JHKBT7uwDf/view?usp=sharing](https://drive.google.com/file/d/1Hen9GH7gj0hLmoBt2eUl8wxHqfJ-yqR1/view)
 
 Full app run on Sample 1: choosing the video, the determinate progress screen moving through
 each stage, the finished collage with person chips, and Save/Share.
