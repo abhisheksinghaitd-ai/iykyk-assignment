@@ -1,5 +1,7 @@
 # iykyk — Face Collage
 
+**[Demo video](https://drive.google.com/file/d/1NOdqliCy6vA7gSu6Kdx_v3JHKBT7uwDf/view?usp=sharing)** — full app run on Sample 1: pick video → processing → collage → save/share.
+
 Given a short portrait video, iykyk finds every distinct person who appears in it, counts how
 many times each one shows up, and lays out a shareable collage with one tile per person — all
 on-device, with no backend and no network access at runtime.
@@ -197,4 +199,7 @@ confirmed present in the raw (pre-discard) track overlap log before clustering e
 
 ## Demo video
 
-_TODO: add a link to a recorded demo run._
+[https://drive.google.com/file/d/1NOdqliCy6vA7gSu6Kdx_v3JHKBT7uwDf/view?usp=sharing](https://drive.google.com/file/d/1NOdqliCy6vA7gSu6Kdx_v3JHKBT7uwDf/view?usp=sharing)
+
+Full app run on Sample 1: choosing the video, the determinate progress screen moving through
+each stage, the finished collage with person chips, and Save/Share.
